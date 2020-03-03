@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="sbt 1" modules="common,spark-on-google-cloud-app,spark-scala-on-googlecloudplatform,utils" />
+  </component>
+</project>
