@@ -1,5 +1,5 @@
 *.class
 *.log
-target
 *.iml
 .idea/.name
+.xml
